@@ -1,4 +1,4 @@
-DummyCandidate
+Dummy Candidate
 ==============
 
 There have been a few news reports in the recent past where dummy students were sent in place of the actual candidates. This issue has been reported mainly from mofussil town colleges. To prevent this in a manner which is not resource constrained for these colleges, we present our solution. 
